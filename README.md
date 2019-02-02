@@ -26,10 +26,6 @@ The following two figures show overviews of robots and weapons most commonly use
 ![Screenshot](plots/iOS_LL_2019-01-16/Robots.png)
 ![Screenshot](plots/iOS_LL_2019-01-16/Weapons.png)
 
-Let us look at all the weapons used for each robot individually. For the most common robot 'Ares', for instance, we get the list of weapons shown below.
-
-![Screenshot](plots/iOS_LL_2019-01-16/Ares.png)
-
 
 ### Suggestions for improvements
 
