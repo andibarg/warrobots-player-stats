@@ -11,7 +11,9 @@ import numpy as np
 from tqdm import tqdm
 import re
 import matplotlib.pylab as plt
-plt.style.use('dark_background')
+#plt.style.use('dark_background')
+col1 = '#00bf6c'
+col2 = '#5a5b5b'
 import pandas as pd
 
 # Input
@@ -71,8 +73,8 @@ mk1no_robots = (df[~df['R_MK2']]['Robot'].value_counts()
 
 # Plot and save
 plt.figure(figsize=(10,6))
-totno_robots.plot.barh(color='#00bf6c',label='MK II')
-mk1no_robots.plot.barh(color='#dcdcdc',label='MK I')
+totno_robots.plot.barh(color=col1,label='MK II')
+mk1no_robots.plot.barh(color=col2,label='MK I')
 plt.xlabel('Number')
 plt.legend(loc='lower right')
 plt.title('Robots in Legend League ('  +  fname[7:17] + ')')
@@ -90,8 +92,8 @@ mk1no_weapons = (df[~df['W_MK2']]['Weapon'].value_counts()
 
 # Plot and save
 plt.figure(figsize=(10,6))
-totno_weapons.plot.barh(color='#00bf6c',label='MK II')
-mk1no_weapons.plot.barh(color='#dcdcdc',label='MK I')
+totno_weapons.plot.barh(color=col1,label='MK II')
+mk1no_weapons.plot.barh(color=col2,label='MK I')
 plt.xlabel('Number')
 plt.legend(loc='lower right')
 plt.title('Weapons in Legend League ('  +  fname[7:17] + ')')
@@ -115,8 +117,8 @@ for group, frame in df.groupby('Robot'):
 
         # Plot and save
         plt.figure(group,figsize=(7,4))     
-        totno_weapons.plot.barh(color='#00bf6c',label='MK II')
-        mk1no_weapons.plot.barh(color='#dcdcdc',label='MK I')
+        totno_weapons.plot.barh(color=col1,label='MK II')
+        mk1no_weapons.plot.barh(color=col2,label='MK I')
         plt.xlabel('Number')
         plt.legend(loc='lower right')
         plt.title(group + ' (' + fname[7:17] + ')')
