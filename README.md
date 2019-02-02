@@ -7,7 +7,7 @@ Analysis of player statistics in the mobile app game 'War Robots'.
 $ git clone https://github.com/andibarg/warrobots-player-stats.git
 $ cd warrobots-player-stats
 ```
-Required python 3 packages: os, matplotlib, numpy, opencv, pytesseract, pandas, re, tqdm
+Required python 3 packages: os, matplotlib, numpy, opencv, pytesseract, pandas, re, tqdm.
 
 ### Usage
 
