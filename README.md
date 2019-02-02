@@ -1,19 +1,15 @@
 # warrobots-player-stats
 
-Analysis of player statistics in the mobile app game 'War Robots'. The data is acquired from game screenshots via OCR in python. The analysis reveals the most popular and possibly best in-game equipment.
-
-### Context
-
-'War Robots' is a multiplayer mobile app game with millions of players across different plattforms. Players compete in battles using different robots and weapons. The top 100 players earn a place in the Legend League (LL), which can be viewed by every player. To estimate what 
+Analysis of player statistics in the mobile app game 'War Robots'. The data is acquired from game screenshots and OCR in python. The analysis reveals the most popular and possibly best in-game equipment.
 
 ### Examples
 
-The following two figures show plots of the robots and weapons most commonly used by LL players. The white and green bars indicate the MK1 and MK2 equipment, respectively.
+The following two figures show overviews of robots and weapons most commonly used by the top 100 players (Legend League). The white and green bars indicate the MK1 and MK2 equipment, respectively.
 
 ![Screenshot](plots/iOS_LL_2019-01-16/Robots.png)
 ![Screenshot](plots/iOS_LL_2019-01-16/Weapons.png)
 
-Let us look at all the weapons used for each robot individually. The most common robot 'Ares', for instance, is shown below.
+Let us look at all the weapons used for each robot individually. For the most common robot 'Ares', for instance, we get the list of weapons shown below.
 
 ![Screenshot](plots/iOS_LL_2019-01-16/Ares.png)
 
