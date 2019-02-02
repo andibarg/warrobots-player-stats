@@ -1,9 +1,12 @@
 # warrobots-player-stats
-Analysis of player statistics in the mobile app game 'War Robots'. 
 
-### Results
 
-The following two figures show plots of the robots and weapons most commonly used by LL players (in their main hangar). The white and green bars indicate the MK1 and MK2 equipment, respectively.
+
+'War Robots' is a multiplayer mobile app game with millions of players across different plattforms. Players compete in battles using different robots and weapons. The top 100 players earn a place in the Legend League (LL), which can be viewed by all the players. 
+
+### Examples
+
+The following two figures show plots of the robots and weapons most commonly used by LL players. The white and green bars indicate the MK1 and MK2 equipment, respectively.
 
 ![Screenshot](plots/iOS_LL_2019-01-16/Robots.png)
 ![Screenshot](plots/iOS_LL_2019-01-16/Weapons.png)
