@@ -1,6 +1,6 @@
 # warrobots-player-stats
 
-Analysis of player statistics in the mobile app game 'War Robots'. The data is acquired from game screenshots and OCR in python. The analysis reveals the most popular and possibly best in-game equipment.
+Analysis of player statistics in the mobile app game 'War Robots'. The data is acquired from game screenshots (iOS) and OCR in python. The analysis reveals the most popular and possibly best in-game equipment.
 
 ### Installation
 ```
