@@ -1,8 +1,10 @@
 # warrobots-player-stats
 
+Analysis of player statistics in the mobile app game 'War Robots'. The data is acquired from game screenshots via OCR in python. The analysis reveals the most popular and possibly best in-game equipment.
 
+### Context
 
-'War Robots' is a multiplayer mobile app game with millions of players across different plattforms. Players compete in battles using different robots and weapons. The top 100 players earn a place in the Legend League (LL), which can be viewed by all the players. 
+'War Robots' is a multiplayer mobile app game with millions of players across different plattforms. Players compete in battles using different robots and weapons. The top 100 players earn a place in the Legend League (LL), which can be viewed by every player. To estimate what 
 
 ### Examples
 
