@@ -1,7 +1,11 @@
 Equipment,Name,regexp
+Robot,Ao Guang,Guang
+Robot,Ao Jun,Jun
+Robot,Ao Qin,[QO]in
 Robot,Ares,Ares
 Robot,Blitz,Blitz
-Robot,Boa,Boa
+Robot,Boa,B[oa]a
+Robot,Bolt,B[oa]lt
 Robot,Bulgasari,Bulgasari
 Robot,Bulwark,Bulwark
 Robot,Butch,Butch
@@ -49,6 +53,8 @@ Weapon,Aphid,Aphid
 Weapon,Arbalest,Arbalest
 Weapon,Avenger,Avenger
 Weapon,Ballista,Ballista
+Weapon,Blaze,Blaze
+Weapon,Calamity,Calamity
 Weapon,Chimera,Chimera
 Weapon,Corona,C[oa]r[oa]na
 Weapon,Dragoon,Drag[oa][oa]n
@@ -64,6 +70,7 @@ Weapon,Hydra,Hydra
 Weapon,Ion,I[oa]n
 Weapon,Kang Dae,Kang\ *Dae
 Weapon,Magnum,Magnum
+Weapon,Marquess,Marques
 Weapon,Molot,M[oa]l[oa]t
 Weapon,Nashorn,Nash[oa]rn
 Weapon,Noricum,N[oa]ricum
