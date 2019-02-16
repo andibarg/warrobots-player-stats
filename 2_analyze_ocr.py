@@ -17,7 +17,7 @@ col2 = '#5a5b5b'
 import pandas as pd
 
 # Input
-fname = 'iOS_LL_2019-01-16.csv'
+fname = 'iOS_LL_2019-02-16.csv'
 
 # Load csv data file
 print('Loading data file ...')
@@ -98,7 +98,7 @@ plt.xlabel('Number')
 plt.legend(loc='lower right')
 plt.title('Weapons in Legend League ('  +  fname[7:17] + ')')
 plt.savefig(os.path.join(pltpath,'Weapons.png'),dpi=200)
-
+plt.close('all')
 
 # Loop through each robot
 for group, frame in df.groupby('Robot'):
@@ -125,26 +125,26 @@ for group, frame in df.groupby('Robot'):
         plt.savefig(os.path.join(pltpath,group + '.png'),dpi=150)
 
 
-# Loop through Rank
-ratio = np.zeros(len(df.Rank.unique()))
-for group, frame in df.groupby('Rank'):
-    
-    # Mk1/Mk2 ratio for all equipment (Robots + Weapons)
-    no_eqtotal = len(frame)/4 + len(frame.dropna())
-    no_eqmk2 = (len(frame[::4][frame[::4].R_MK2])
-            + len(frame.dropna()[frame.dropna().W_MK2]))
-    ratio[int(group)-1] = no_eqmk2/no_eqtotal
-
-# PLot and save
-plt.figure('MK2equip')
-plt.plot(df.Rank.unique(),ratio*100,'o',label='Data')
-plt.plot([0,100],[np.mean(ratio*100),np.mean(ratio*100)],label='Average')
-plt.xlabel('Player rank')
-plt.title('MK2 equipment in Legend League ('  +  fname[7:17] + ')')
-plt.xlim(0,100)
-plt.legend(loc='lower right')
-plt.ylabel('Percentage (%)')
-plt.savefig(os.path.join(pltpath,'MK2equip.png'),dpi=150)
+### Loop through Rank
+##ratio = np.zeros(len(df.Rank.unique()))
+##for group, frame in df.groupby('Rank'):
+##    
+##    # Mk1/Mk2 ratio for all equipment (Robots + Weapons)
+##    no_eqtotal = len(frame)/4 + len(frame.dropna())
+##    no_eqmk2 = (len(frame[::4][frame[::4].R_MK2])
+##            + len(frame.dropna()[frame.dropna().W_MK2]))
+##    ratio[int(group)-1] = no_eqmk2/no_eqtotal
+##
+### PLot and save
+##plt.figure('MK2equip')
+##plt.plot(df.Rank.unique(),ratio*100,'o',label='Data')
+##plt.plot([0,100],[np.mean(ratio*100),np.mean(ratio*100)],label='Average')
+##plt.xlabel('Player rank')
+##plt.title('MK2 equipment in Legend League ('  +  fname[7:17] + ')')
+##plt.xlim(0,100)
+##plt.legend(loc='lower right')
+##plt.ylabel('Percentage (%)')
+##plt.savefig(os.path.join(pltpath,'MK2equip.png'),dpi=150)
 
 plt.close('all')
 print('Done!')
