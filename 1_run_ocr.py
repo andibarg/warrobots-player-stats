@@ -27,8 +27,9 @@ ocrpos = np.loadtxt(os.path.join(os.getcwd(),'other','text_pos.csv'),
                     skiprows=1,delimiter=',')
 
 # Initiate csv data file
-dname = os.path.join(os.path.dirname(dpath),screenshot_folder + '.csv')
-np.savetxt(dname,[],header='Rank,Robot,Weapon',comments='',fmt="%s")
+if savetofile:
+    dname = os.path.join(os.path.dirname(dpath),screenshot_folder + '.csv')
+    np.savetxt(dname,[],header='Rank,Robot,Weapon',comments='',fmt="%s")
 
 # Loop through screenshots
 for ii in tqdm(range(len(dfiles))):
