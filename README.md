@@ -23,8 +23,8 @@ Next, open '2_analyze_ocr.py' and specify the name of the csv file including the
 
 The following two figures show overviews of robots and weapons most commonly used by the top 100 players (Legend League). The white and green bars indicate the MK1 and MK2 equipment, respectively.
 
-![Screenshot](plots/iOS_LL_2019-03-16/Robots.png)
-![Screenshot](plots/iOS_LL_2019-03-16/Weapons.png)
+![Screenshot](plots/iOS_LL_2019-04-28/Robots.png)
+![Screenshot](plots/iOS_LL_2019-04-28/Weapons.png)
 
 
 ### Suggestions for improvements

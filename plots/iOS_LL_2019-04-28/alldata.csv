@@ -1,0 +1,2021 @@
+,Rank,Robot,Weapon,R_MK2,W_MK2
+0,1,Invader,Corona,False,False
+1,1,Invader,Gust,False,True
+2,1,Invader,Gust,False,True
+3,1,Invader,,False,False
+4,1,Ares,Taran,False,True
+5,1,Ares,Halo,False,True
+6,1,Ares,Halo,False,False
+7,1,Ares,Taran,False,True
+8,1,Ao Jun,Ember,True,True
+9,1,Ao Jun,Ember,True,True
+10,1,Ao Jun,,True,False
+11,1,Ao Jun,,True,False
+12,1,Ares,Taran,False,True
+13,1,Ares,Halo,False,False
+14,1,Ares,Halo,False,False
+15,1,Ares,Taran,False,True
+16,1,Mender,Gust,True,True
+17,1,Mender,Corona,True,False
+18,1,Mender,Gust,True,True
+19,1,Mender,,True,False
+20,2,Mercury,Ecu,True,True
+21,2,Mercury,Avenger,True,True
+22,2,Mercury,Halo,True,False
+23,2,Mercury,,True,False
+24,2,Ares,Tulumbas,True,True
+25,2,Ares,Halo,True,False
+26,2,Ares,Halo,True,False
+27,2,Ares,Tulumbas,True,True
+28,2,Ares,Corona,True,False
+29,2,Ares,Halo,True,False
+30,2,Ares,Halo,True,False
+31,2,Ares,Corona,True,False
+32,2,Invader,Storm,True,True
+33,2,Invader,Gust,True,True
+34,2,Invader,Halo,True,False
+35,2,Invader,,True,False
+36,2,Ao Jun,Avenger,False,True
+37,2,Ao Jun,Viper,False,True
+38,2,Ao Jun,,False,False
+39,2,Ao Jun,,False,False
+40,3,Ao Jun,Avenger,True,True
+41,3,Ao Jun,Avenger,True,True
+42,3,Ao Jun,,True,False
+43,3,Ao Jun,,True,False
+44,3,Ares,Scourge,True,True
+45,3,Ares,Halo,True,True
+46,3,Ares,Halo,True,True
+47,3,Ares,Scourge,True,True
+48,3,Mercury,Halo,True,True
+49,3,Mercury,Ember,True,True
+50,3,Mercury,Halo,True,True
+51,3,Mercury,,True,False
+52,3,Ares,Scourge,True,True
+53,3,Ares,Shredder,True,True
+54,3,Ares,Shredder,True,True
+55,3,Ares,Scourge,True,True
+56,3,,Halo,False,True
+57,3,,Glory,False,False
+58,3,,,False,False
+59,3,,,False,False
+60,4,Ao Jun,Ember,False,True
+61,4,Ao Jun,Avenger,False,False
+62,4,Ao Jun,,False,False
+63,4,Ao Jun,,False,False
+64,4,Ares,Scourge,False,True
+65,4,Ares,Halo,False,False
+66,4,Ares,Halo,False,False
+67,4,Ares,Scourge,False,True
+68,4,Ares,Corona,False,False
+69,4,Ares,Halo,False,False
+70,4,Ares,Halo,False,False
+71,4,Ares,Corona,False,False
+72,4,Ares,Scourge,False,True
+73,4,Ares,Shredder,False,False
+74,4,Ares,Shredder,False,False
+75,4,Ares,Scourge,False,True
+76,4,Invader,Storm,False,False
+77,4,Invader,Gust,False,True
+78,4,Invader,Gust,False,False
+79,4,Invader,,False,False
+80,5,Ares,Corona,True,True
+81,5,Ares,Halo,True,True
+82,5,Ares,Halo,True,True
+83,5,Ares,Corona,True,True
+84,5,Ares,Corona,True,True
+85,5,Ares,Halo,True,True
+86,5,Ares,Halo,True,True
+87,5,Ares,Corona,True,True
+88,5,Ares,Corona,True,True
+89,5,Ares,Halo,True,True
+90,5,Ares,Halo,True,True
+91,5,Ares,Corona,True,True
+92,5,Ares,Corona,True,True
+93,5,Ares,Halo,True,True
+94,5,Ares,Halo,True,True
+95,5,Ares,Corona,True,True
+96,5,Ares,Corona,True,True
+97,5,Ares,Halo,True,True
+98,5,Ares,Halo,True,True
+99,5,Ares,Corona,True,True
+100,6,Tyr,Corona,True,True
+101,6,Tyr,Blaze,True,False
+102,6,Tyr,Blaze,True,True
+103,6,Tyr,Corona,True,True
+104,6,Ares,Storm,True,True
+105,6,Ares,Halo,True,True
+106,6,Ares,Halo,True,True
+107,6,Ares,Storm,True,True
+108,6,Ares,Tulumbas,True,True
+109,6,Ares,Halo,True,True
+110,6,Ares,Halo,True,True
+111,6,Ares,Tulumbas,True,True
+112,6,Ares,Pulsar,True,True
+113,6,Ares,Shredder,True,True
+114,6,Ares,Shredder,True,True
+115,6,Ares,Pulsar,True,True
+116,6,Ares,Corona,False,True
+117,6,Ares,Halo,False,True
+118,6,Ares,Halo,False,True
+119,6,Ares,Corona,False,True
+120,7,,Storm,True,True
+121,7,,Halo,True,False
+122,7,,Halo,True,False
+123,7,,,True,False
+124,7,Ao Jun,Avenger,False,True
+125,7,Ao Jun,Avenger,False,True
+126,7,Ao Jun,,False,False
+127,7,Ao Jun,,False,False
+128,7,Ares,Corona,True,True
+129,7,Ares,Halo,True,True
+130,7,Ares,Halo,True,True
+131,7,Ares,Corona,True,True
+132,7,Ares,Taran,False,True
+133,7,Ares,Halo,False,False
+134,7,Ares,Halo,False,False
+135,7,Ares,Taran,False,True
+136,7,Ares,Pulsar,False,False
+137,7,Ares,Halo,False,False
+138,7,Ares,Halo,False,False
+139,7,Ares,Corona,False,False
+140,8,,Pulsar,True,True
+141,8,,Pulsar,True,True
+142,8,,Pulsar,True,True
+143,8,,Pulsar,True,True
+144,8,Ares,Corona,True,True
+145,8,Ares,Halo,True,True
+146,8,Ares,Halo,True,True
+147,8,Ares,Corona,True,True
+148,8,Invader,Corona,True,True
+149,8,Invader,Shredder,True,True
+150,8,Invader,Halo,True,True
+151,8,Invader,,True,False
+152,8,Ao Jun,Ember,True,True
+153,8,Ao Jun,Ember,True,True
+154,8,Ao Jun,,True,False
+155,8,Ao Jun,,True,False
+156,8,Ao Jun,Avenger,True,True
+157,8,Ao Jun,Viper,True,False
+158,8,Ao Jun,,True,False
+159,8,Ao Jun,,True,False
+160,9,Ao Jun,Avenger,True,True
+161,9,Ao Jun,Avenger,True,True
+162,9,Ao Jun,,True,False
+163,9,Ao Jun,,True,False
+164,9,,Storm,True,True
+165,9,,Halo,True,True
+166,9,,Gust,True,True
+167,9,,,True,False
+168,9,Ares,Scourge,True,True
+169,9,Ares,Halo,True,True
+170,9,Ares,Halo,True,True
+171,9,Ares,Scourge,True,True
+172,9,Ares,Corona,True,True
+173,9,Ares,Halo,True,True
+174,9,Ares,Halo,True,True
+175,9,Ares,Corona,True,True
+176,9,Ares,Scourge,True,True
+177,9,Ares,Halo,True,True
+178,9,Ares,Halo,True,True
+179,9,Ares,Scourge,True,True
+180,10,Ao Jun,Redeemer,False,True
+181,10,Ao Jun,Avenger,False,True
+182,10,Ao Jun,,False,False
+183,10,Ao Jun,,False,False
+184,10,Ares,Corona,True,True
+185,10,Ares,Halo,True,False
+186,10,Ares,Halo,True,False
+187,10,Ares,Corona,True,True
+188,10,Invader,Storm,True,True
+189,10,Invader,Halo,True,False
+190,10,Invader,Gust,True,True
+191,10,Invader,,True,False
+192,10,Ares,Corona,True,True
+193,10,Ares,Halo,True,False
+194,10,Ares,Halo,True,False
+195,10,Ares,Corona,True,True
+196,10,Ares,Storm,False,True
+197,10,Ares,Halo,False,False
+198,10,Ares,Gust,False,True
+199,10,Ares,Storm,False,True
+200,11,Ao Jun,Ember,True,True
+201,11,Ao Jun,Ember,True,True
+202,11,Ao Jun,,True,False
+203,11,Ao Jun,,True,False
+204,11,Ares,Taran,True,True
+205,11,Ares,Halo,True,True
+206,11,Ares,Halo,True,True
+207,11,Ares,Taran,True,True
+208,11,Mercury,Gust,True,True
+209,11,Mercury,Ember,True,True
+210,11,Mercury,Halo,True,True
+211,11,Mercury,,True,False
+212,11,Invader,Corona,True,True
+213,11,Invader,Gust,True,True
+214,11,Invader,Gust,True,True
+215,11,Invader,,True,False
+216,11,Strider,Gust,True,True
+217,11,Strider,Gust,True,True
+218,11,Strider,Glory,True,True
+219,11,Strider,,True,False
+220,12,Ares,Punisher,True,True
+221,12,Ares,Halo,True,True
+222,12,Ares,Halo,True,True
+223,12,Ares,Punisher,True,True
+224,12,Ao Jun,Avenger,True,True
+225,12,Ao Jun,Ember,True,True
+226,12,Ao Jun,,True,False
+227,12,Ao Jun,,True,False
+228,12,Mercury,Halo,True,False
+229,12,Mercury,Avenger,True,True
+230,12,Mercury,Halo,True,False
+231,12,Mercury,,True,False
+232,12,Invader,Corona,True,True
+233,12,Invader,Gust,True,True
+234,12,Invader,Gust,True,True
+235,12,Invader,,True,False
+236,12,Ares,Taran,True,True
+237,12,Ares,Gust,True,True
+238,12,Ares,Halo,True,True
+239,12,Ares,Taran,True,True
+240,13,Ares,Taran,True,True
+241,13,Ares,Halo,True,False
+242,13,Ares,Halo,True,False
+243,13,Ares,Taran,True,True
+244,13,,Storm,False,True
+245,13,,Gust,False,True
+246,13,,Gust,False,True
+247,13,,,False,False
+248,13,Ares,Corona,False,False
+249,13,Ares,Gust,False,True
+250,13,Ares,Gust,False,True
+251,13,Ares,Corona,False,False
+252,13,Ares,Taran,False,True
+253,13,Ares,Halo,False,False
+254,13,Ares,Halo,False,False
+255,13,Ares,Taran,False,True
+256,13,Ao Jun,Ember,True,True
+257,13,Ao Jun,Ember,True,True
+258,13,Ao Jun,,True,False
+259,13,Ao Jun,,True,False
+260,14,,Storm,True,True
+261,14,,Gust,True,True
+262,14,,Gust,True,True
+263,14,,,True,False
+264,14,Ao Jun,Avenger,True,True
+265,14,Ao Jun,Avenger,True,True
+266,14,Ao Jun,,True,False
+267,14,Ao Jun,,True,False
+268,14,Ares,Pulsar,False,True
+269,14,Ares,Shredder,False,True
+270,14,Ares,Shredder,False,False
+271,14,Ares,Pulsar,False,True
+272,14,Tyr,Storm,True,True
+273,14,Tyr,Halo,True,False
+274,14,Tyr,Halo,True,False
+275,14,Tyr,Storm,True,True
+276,14,Ares,Corona,True,True
+277,14,Ares,Halo,True,True
+278,14,Ares,Halo,True,True
+279,14,Ares,Corona,True,True
+280,15,Ao Jun,Ember,False,False
+281,15,Ao Jun,Ember,False,True
+282,15,Ao Jun,,False,False
+283,15,Ao Jun,,False,False
+284,15,Ares,Corona,False,True
+285,15,Ares,Halo,False,False
+286,15,Ares,Halo,False,False
+287,15,Ares,Corona,False,True
+288,15,Mender,Gust,True,True
+289,15,Mender,Storm,True,True
+290,15,Mender,Halo,True,False
+291,15,Mender,,True,False
+292,15,Invader,Storm,True,True
+293,15,Invader,Gust,True,True
+294,15,Invader,Halo,True,False
+295,15,Invader,,True,False
+296,15,Strider,Ecu,True,False
+297,15,Strider,Halo,True,False
+298,15,Strider,Glory,True,True
+299,15,Strider,,True,False
+300,16,Falcon,Viper,True,False
+301,16,Falcon,Ember,True,True
+302,16,Falcon,Viper,True,False
+303,16,Falcon,,True,False
+304,16,Mender,Gust,True,True
+305,16,Mender,Storm,True,True
+306,16,Mender,Gust,True,True
+307,16,Mender,,True,False
+308,16,Ares,Corona,True,True
+309,16,Ares,Halo,True,True
+310,16,Ares,Halo,True,True
+311,16,Ares,Corona,True,True
+312,16,Invader,Storm,False,True
+313,16,Invader,Gust,False,True
+314,16,Invader,Halo,False,False
+315,16,Invader,,False,False
+316,16,Mercury,Halo,True,False
+317,16,Mercury,Glory,True,True
+318,16,Mercury,Halo,True,True
+319,16,Mercury,,True,False
+320,17,,Shredder,False,True
+321,17,,Avenger,False,True
+322,17,,,False,False
+323,17,,,False,False
+324,17,,Corona,True,True
+325,17,,Halo,True,True
+326,17,,Halo,True,True
+327,17,,,True,False
+328,17,Invader,Corona,True,True
+329,17,Invader,Halo,True,True
+330,17,Invader,Halo,True,True
+331,17,Invader,,True,False
+332,17,Invader,Corona,True,True
+333,17,Invader,Halo,True,True
+334,17,Invader,Halo,True,True
+335,17,Invader,,True,False
+336,17,Invader,Corona,True,True
+337,17,Invader,Halo,True,True
+338,17,Invader,Halo,True,True
+339,17,Invader,,True,False
+340,18,Ao Jun,Calamity,True,False
+341,18,Ao Jun,Calamity,True,False
+342,18,Ao Jun,,True,False
+343,18,Ao Jun,,True,False
+344,18,Tyr,Storm,True,True
+345,18,Tyr,Gust,True,True
+346,18,Tyr,Gust,True,True
+347,18,Tyr,Storm,True,True
+348,18,Ares,Pulsar,True,True
+349,18,Ares,Shredder,True,True
+350,18,Ares,Shredder,True,True
+351,18,Ares,Pulsar,True,True
+352,18,Blitz,Marquess,True,False
+353,18,Blitz,Marquess,True,False
+354,18,Blitz,Marquess,True,False
+355,18,Blitz,Marquess,True,False
+356,18,Fenrir,Corona,True,False
+357,18,Fenrir,Glory,True,True
+358,18,Fenrir,Corona,True,False
+359,18,Fenrir,,True,False
+360,19,,Storm,True,True
+361,19,,Halo,True,False
+362,19,,Halo,True,False
+363,19,,,True,False
+364,19,,Corona,True,True
+365,19,,Halo,True,False
+366,19,,Halo,True,True
+367,19,,,True,False
+368,19,Mercury,Shredder,True,False
+369,19,Mercury,Avenger,True,True
+370,19,Mercury,Shredder,True,False
+371,19,Mercury,,True,False
+372,19,Ares,Tulumbas,True,True
+373,19,Ares,Halo,True,False
+374,19,Ares,Gust,True,False
+375,19,Ares,Tulumbas,True,True
+376,19,Ares,Corona,True,False
+377,19,Ares,Halo,True,False
+378,19,Ares,Halo,True,False
+379,19,Ares,Corona,True,False
+380,20,,Ecu,False,True
+381,20,,Avenger,False,True
+382,20,,,False,False
+383,20,,,False,False
+384,20,Ao Jun,Ember,True,True
+385,20,Ao Jun,Ember,True,True
+386,20,Ao Jun,,True,False
+387,20,Ao Jun,,True,False
+388,20,Ares,Scourge,True,True
+389,20,Ares,Spark,True,False
+390,20,Ares,Spark,True,False
+391,20,Ares,Scourge,True,True
+392,20,Ares,Taran,True,True
+393,20,Ares,Halo,True,True
+394,20,Ares,Halo,True,False
+395,20,Ares,Taran,True,True
+396,20,Ares,Pulsar,True,True
+397,20,Ares,Marquess,True,False
+398,20,Ares,Marquess,True,False
+399,20,Ares,Pulsar,True,True
+400,21,Ao Jun,Viper,True,True
+401,21,Ao Jun,Viper,True,True
+402,21,Ao Jun,,True,False
+403,21,Ao Jun,,True,False
+404,21,Ares,Pulsar,True,True
+405,21,Ares,Shredder,True,True
+406,21,Ares,Shredder,True,True
+407,21,Ares,Pulsar,True,True
+408,21,Invader,Storm,True,True
+409,21,Invader,Shredder,True,True
+410,21,Invader,Shredder,True,True
+411,21,Invader,,True,False
+412,21,Ares,Pulsar,True,True
+413,21,Ares,Halo,True,True
+414,21,Ares,Halo,True,True
+415,21,Ares,Pulsar,True,True
+416,21,Ao Jun,Redeemer,True,True
+417,21,Ao Jun,Redeemer,True,True
+418,21,Ao Jun,,True,False
+419,21,Ao Jun,,True,False
+420,22,,Corona,True,True
+421,22,,Halo,True,True
+422,22,,Halo,True,True
+423,22,,,True,False
+424,22,Ares,Pulsar,True,True
+425,22,Ares,Halo,True,True
+426,22,Ares,Halo,True,True
+427,22,Ares,Corona,True,True
+428,22,Mercury,Halo,True,True
+429,22,Mercury,Avenger,True,True
+430,22,Mercury,Ecu,True,True
+431,22,Mercury,,True,False
+432,22,Ares,Pulsar,True,True
+433,22,Ares,Halo,True,True
+434,22,Ares,Shredder,True,False
+435,22,Ares,Pulsar,True,True
+436,22,Loki,Halo,True,True
+437,22,Loki,Halo,True,True
+438,22,Loki,Halo,True,True
+439,22,Loki,,True,False
+440,23,Ares,Taran,True,True
+441,23,Ares,Shredder,True,False
+442,23,Ares,Halo,True,True
+443,23,Ares,Taran,True,True
+444,23,,Shredder,True,True
+445,23,,Magnum,True,True
+446,23,,Magnum,True,True
+447,23,,Magnum,True,True
+448,23,Ares,Corona,True,True
+449,23,Ares,Halo,True,True
+450,23,Ares,Halo,True,True
+451,23,Ares,Corona,True,True
+452,23,Ao Jun,Avenger,True,True
+453,23,Ao Jun,Viper,True,True
+454,23,Ao Jun,,True,False
+455,23,Ao Jun,,True,False
+456,23,Invader,Storm,True,True
+457,23,Invader,Halo,True,True
+458,23,Invader,Halo,True,True
+459,23,Invader,,True,False
+460,24,Ares,Scourge,False,False
+461,24,Ares,Halo,False,False
+462,24,Ares,Spark,False,False
+463,24,Ares,Scourge,False,False
+464,24,Ao Jun,Avenger,False,False
+465,24,Ao Jun,Viper,False,False
+466,24,Ao Jun,,False,False
+467,24,Ao Jun,,False,False
+468,24,Ares,Pulsar,False,False
+469,24,Ares,Shredder,False,False
+470,24,Ares,Halo,False,False
+471,24,Ares,Pulsar,False,False
+472,24,Hellburner,Ecu,False,False
+473,24,Hellburner,Ember,False,False
+474,24,Hellburner,,False,False
+475,24,Hellburner,,False,False
+476,24,Ares,Taran,False,True
+477,24,Ares,Halo,False,False
+478,24,Ares,Halo,False,False
+479,24,Ares,Taran,False,True
+480,25,,Corona,True,True
+481,25,,Gust,True,True
+482,25,,Gust,True,True
+483,25,,,True,False
+484,25,Ares,Storm,True,True
+485,25,Ares,Halo,True,True
+486,25,Ares,Halo,True,False
+487,25,Ares,Storm,True,True
+488,25,Ao Jun,Avenger,True,True
+489,25,Ao Jun,Avenger,True,True
+490,25,Ao Jun,,True,False
+491,25,Ao Jun,,True,False
+492,25,Ares,Scourge,True,True
+493,25,Ares,Shredder,True,True
+494,25,Ares,Shredder,True,True
+495,25,Ares,Scourge,True,True
+496,25,Ares,Taran,True,True
+497,25,Ares,Halo,True,False
+498,25,Ares,Halo,True,False
+499,25,Ares,Taran,True,True
+500,26,,Gust,False,True
+501,26,,Avenger,False,True
+502,26,,,False,False
+503,26,,,False,False
+504,26,,Corona,True,True
+505,26,,Halo,True,False
+506,26,,Halo,True,True
+507,26,,,True,False
+508,26,Ares,Scourge,True,True
+509,26,Ares,Shredder,True,True
+510,26,Ares,Shredder,True,True
+511,26,Ares,Scourge,True,True
+512,26,Ares,Taran,True,True
+513,26,Ares,Halo,True,True
+514,26,Ares,Halo,True,False
+515,26,Ares,Taran,True,True
+516,26,Ares,Tulumbas,True,True
+517,26,Ares,Pin,True,True
+518,26,Ares,Pin,True,True
+519,26,Ares,Tulumbas,True,True
+520,27,Ares,Corona,True,True
+521,27,Ares,Halo,True,True
+522,27,Ares,Halo,True,True
+523,27,Ares,Corona,True,True
+524,27,,Corona,True,True
+525,27,,Avenger,True,True
+526,27,,Corona,True,True
+527,27,,,True,False
+528,27,Fenrir,Corona,True,True
+529,27,Fenrir,Avenger,True,True
+530,27,Fenrir,Corona,True,True
+531,27,Fenrir,,True,False
+532,27,Ares,Pulsar,True,True
+533,27,Ares,Halo,True,True
+534,27,Ares,Halo,True,True
+535,27,Ares,Pulsar,True,True
+536,27,Loki,Halo,True,True
+537,27,Loki,Halo,True,True
+538,27,Loki,Halo,True,True
+539,27,Loki,,True,False
+540,28,Loki,Halo,False,True
+541,28,Loki,Halo,False,True
+542,28,Loki,Halo,False,True
+543,28,Loki,,False,False
+544,28,Ares,Taran,True,True
+545,28,Ares,Halo,True,True
+546,28,Ares,Halo,True,True
+547,28,Ares,Taran,True,True
+548,28,Ares,Taran,True,True
+549,28,Ares,Halo,True,True
+550,28,Ares,Halo,True,True
+551,28,Ares,Taran,True,True
+552,28,Invader,Storm,True,True
+553,28,Invader,Gust,True,True
+554,28,Invader,Gust,True,True
+555,28,Invader,,True,False
+556,28,Ares,Pulsar,False,False
+557,28,Ares,Marquess,False,False
+558,28,Ares,Marquess,False,False
+559,28,Ares,Pulsar,False,False
+560,29,Mercury,Halo,True,True
+561,29,Mercury,Avenger,True,True
+562,29,Mercury,Halo,True,True
+563,29,Mercury,,True,False
+564,29,Ares,Pulsar,False,False
+565,29,Ares,Shredder,False,False
+566,29,Ares,Shredder,False,False
+567,29,Ares,Pulsar,False,False
+568,29,Invader,Corona,True,True
+569,29,Invader,Gust,True,True
+570,29,Invader,Halo,True,True
+571,29,Invader,,True,False
+572,29,Ao Jun,Ember,True,True
+573,29,Ao Jun,Ember,True,True
+574,29,Ao Jun,,True,False
+575,29,Ao Jun,,True,False
+576,29,Ares,Corona,True,True
+577,29,Ares,Halo,True,False
+578,29,Ares,Halo,True,False
+579,29,Ares,Corona,True,True
+580,30,Ares,Taran,False,True
+581,30,Ares,Halo,False,False
+582,30,Ares,Halo,False,False
+583,30,Ares,Taran,False,True
+584,30,Ares,Pulsar,True,False
+585,30,Ares,Marquess,True,False
+586,30,Ares,Marquess,True,False
+587,30,Ares,Pulsar,True,False
+588,30,Ao Jun,Avenger,True,True
+589,30,Ao Jun,Viper,True,True
+590,30,Ao Jun,,True,False
+591,30,Ao Jun,,True,False
+592,30,Invader,Storm,True,True
+593,30,Invader,Gust,True,True
+594,30,Invader,Gust,True,True
+595,30,Invader,,True,False
+596,30,Fenrir,Scourge,False,True
+597,30,Fenrir,Redeemer,False,True
+598,30,Fenrir,Scourge,False,True
+599,30,Fenrir,,False,False
+600,31,Strider,Shredder,True,True
+601,31,Strider,Shredder,True,True
+602,31,Strider,Avenger,True,True
+603,31,Strider,,True,False
+604,31,Ares,Corona,True,True
+605,31,Ares,Halo,True,True
+606,31,Ares,Halo,True,True
+607,31,Ares,Corona,True,True
+608,31,Ares,Pulsar,True,True
+609,31,Ares,Marquess,True,False
+610,31,Ares,Marquess,True,False
+611,31,Ares,Pulsar,True,True
+612,31,Invader,Storm,True,True
+613,31,Invader,Gust,True,True
+614,31,Invader,Gust,True,True
+615,31,Invader,,True,False
+616,31,Ao Jun,Ember,True,True
+617,31,Ao Jun,Ember,True,True
+618,31,Ao Jun,,True,False
+619,31,Ao Jun,,True,False
+620,32,,Corona,True,True
+621,32,,Halo,True,True
+622,32,,Halo,True,False
+623,32,,,True,False
+624,32,Ares,Taran,True,True
+625,32,Ares,Shredder,True,False
+626,32,Ares,Halo,True,False
+627,32,Ares,Taran,True,True
+628,32,Hellburner,Gust,False,True
+629,32,Hellburner,Avenger,False,True
+630,32,Hellburner,,False,False
+631,32,Hellburner,,False,False
+632,32,Ao Jun,Ember,True,True
+633,32,Ao Jun,Ember,True,True
+634,32,Ao Jun,,True,False
+635,32,Ao Jun,,True,False
+636,32,Ares,Taran,True,True
+637,32,Ares,Halo,True,False
+638,32,Ares,Halo,True,False
+639,32,Ares,Taran,True,True
+640,33,,Gust,False,True
+641,33,,Ember,False,True
+642,33,,,False,False
+643,33,,,False,False
+644,33,Ares,Corona,True,True
+645,33,Ares,Halo,True,True
+646,33,Ares,Halo,True,True
+647,33,Ares,Corona,True,False
+648,33,Ares,Scourge,True,True
+649,33,Ares,Halo,True,True
+650,33,Ares,Halo,True,True
+651,33,Ares,Scourge,True,True
+652,33,Ares,Pulsar,False,False
+653,33,Ares,Halo,False,False
+654,33,Ares,Halo,False,False
+655,33,Ares,Pulsar,False,False
+656,33,Mercury,Halo,True,False
+657,33,Mercury,Avenger,True,True
+658,33,Mercury,Halo,True,False
+659,33,Mercury,,True,False
+660,34,,Storm,True,False
+661,34,,Gust,True,True
+662,34,,Gust,True,True
+663,34,,,True,False
+664,34,Ares,Storm,True,False
+665,34,Ares,Halo,True,False
+666,34,Ares,Halo,True,False
+667,34,Ares,Storm,True,False
+668,34,Ares,Corona,False,False
+669,34,Ares,Halo,False,False
+670,34,Ares,Halo,False,False
+671,34,Ares,Corona,False,False
+672,34,Ares,Pulsar,False,False
+673,34,Ares,Marquess,False,False
+674,34,Ares,Marquess,False,False
+675,34,Ares,Pulsar,False,False
+676,34,Mercury,Ecu,False,False
+677,34,Mercury,Avenger,False,True
+678,34,Mercury,Shredder,False,False
+679,34,Mercury,,False,False
+680,35,Hades,Halo,False,True
+681,35,Hades,Ember,False,True
+682,35,Hades,Gust,False,True
+683,35,Hades,,False,False
+684,35,Ares,Scourge,True,True
+685,35,Ares,Halo,True,True
+686,35,Ares,Halo,True,True
+687,35,Ares,Scourge,True,True
+688,35,Mercury,Gust,True,True
+689,35,Mercury,Exodus,True,True
+690,35,Mercury,Gust,True,True
+691,35,Mercury,,True,False
+692,35,Ao Jun,Avenger,False,True
+693,35,Ao Jun,Avenger,False,True
+694,35,Ao Jun,,False,False
+695,35,Ao Jun,,False,False
+696,35,Ares,Scourge,True,True
+697,35,Ares,Halo,True,True
+698,35,Ares,Gust,True,True
+699,35,Ares,Scourge,True,True
+700,36,Ares,Scourge,True,True
+701,36,Ares,Shredder,True,False
+702,36,Ares,Shredder,True,False
+703,36,Ares,Scourge,True,True
+704,36,Ares,Corona,True,False
+705,36,Ares,Halo,True,False
+706,36,Ares,Halo,True,False
+707,36,Ares,Corona,True,False
+708,36,Ao Jun,Ember,True,True
+709,36,Ao Jun,Ember,True,True
+710,36,Ao Jun,,True,False
+711,36,Ao Jun,,True,False
+712,36,Ares,Pulsar,True,False
+713,36,Ares,Marquess,True,False
+714,36,Ares,Marquess,True,False
+715,36,Ares,Pulsar,True,False
+716,36,Invader,Storm,True,True
+717,36,Invader,Halo,True,True
+718,36,Invader,Halo,True,False
+719,36,Invader,,True,False
+720,37,Loki,Gust,True,True
+721,37,Loki,Halo,True,False
+722,37,Loki,Gust,True,True
+723,37,Loki,,True,False
+724,37,Ares,Corona,True,True
+725,37,Ares,Halo,True,False
+726,37,Ares,Halo,True,False
+727,37,Ares,Corona,True,True
+728,37,Ares,Pulsar,True,True
+729,37,Ares,Halo,True,True
+730,37,Ares,Marquess,True,False
+731,37,Ares,Pulsar,True,True
+732,37,Ares,Taran,True,True
+733,37,Ares,Halo,True,True
+734,37,Ares,Halo,True,False
+735,37,Ares,Taran,True,True
+736,37,Ares,Taran,False,True
+737,37,Ares,Halo,False,False
+738,37,Ares,Gust,False,True
+739,37,Ares,Taran,False,True
+740,38,Ao Jun,Viper,False,True
+741,38,Ao Jun,Avenger,False,True
+742,38,Ao Jun,,False,False
+743,38,Ao Jun,,False,False
+744,38,Ares,Pulsar,False,False
+745,38,Ares,Halo,False,False
+746,38,Ares,Halo,False,False
+747,38,Ares,Pulsar,False,False
+748,38,Invader,Storm,True,True
+749,38,Invader,Halo,True,False
+750,38,Invader,Halo,True,False
+751,38,Invader,,True,False
+752,38,Ares,Corona,True,False
+753,38,Ares,Halo,True,False
+754,38,Ares,Halo,True,False
+755,38,Ares,Corona,True,False
+756,38,Ao Jun,Redeemer,True,True
+757,38,Ao Jun,Redeemer,True,True
+758,38,Ao Jun,,True,False
+759,38,Ao Jun,,True,False
+760,39,Ares,Taran,True,True
+761,39,Ares,Halo,True,True
+762,39,Ares,Halo,True,True
+763,39,Ares,Taran,True,True
+764,39,Ares,Corona,True,True
+765,39,Ares,Halo,True,True
+766,39,Ares,Halo,True,True
+767,39,Ares,Corona,True,True
+768,39,Ao Jun,Avenger,True,True
+769,39,Ao Jun,Avenger,True,True
+770,39,Ao Jun,,True,False
+771,39,Ao Jun,,True,False
+772,39,Ao Jun,Ember,True,True
+773,39,Ao Jun,Ember,True,True
+774,39,Ao Jun,,True,False
+775,39,Ao Jun,,True,False
+776,39,Ares,Pulsar,False,False
+777,39,Ares,Marquess,False,False
+778,39,Ares,Shredder,False,False
+779,39,Ares,Pulsar,False,False
+780,40,Ao Jun,Avenger,False,True
+781,40,Ao Jun,Avenger,False,True
+782,40,Ao Jun,,False,False
+783,40,Ao Jun,,False,False
+784,40,Ares,Corona,False,True
+785,40,Ares,Halo,False,True
+786,40,Ares,Halo,False,True
+787,40,Ares,Corona,False,True
+788,40,Ares,Taran,False,True
+789,40,Ares,Halo,False,True
+790,40,Ares,Halo,False,True
+791,40,Ares,Taran,False,True
+792,40,Ares,Pulsar,False,True
+793,40,Ares,Marquess,False,False
+794,40,Ares,Marquess,False,False
+795,40,Ares,Pulsar,False,True
+796,40,Invader,Storm,True,True
+797,40,Invader,Halo,True,True
+798,40,Invader,Halo,True,True
+799,40,Invader,,True,False
+800,41,Ares,Corona,False,True
+801,41,Ares,Halo,False,True
+802,41,Ares,Halo,False,True
+803,41,Ares,Corona,False,True
+804,41,Ares,Pulsar,True,True
+805,41,Ares,Shredder,True,True
+806,41,Ares,Shredder,True,True
+807,41,Ares,Pulsar,True,True
+808,41,Ao Jun,Calamity,False,False
+809,41,Ao Jun,Calamity,False,False
+810,41,Ao Jun,,False,False
+811,41,Ao Jun,,False,False
+812,41,Invader,Storm,True,True
+813,41,Invader,Halo,True,True
+814,41,Invader,Halo,True,True
+815,41,Invader,,True,False
+816,41,Ao Jun,Viper,True,True
+817,41,Ao Jun,Viper,True,True
+818,41,Ao Jun,,True,False
+819,41,Ao Jun,,True,False
+820,42,Ares,Corona,False,False
+821,42,Ares,Halo,False,False
+822,42,Ares,Halo,False,False
+823,42,Ares,Corona,False,False
+824,42,Ares,Taran,False,True
+825,42,Ares,Halo,False,False
+826,42,Ares,Halo,False,False
+827,42,Ares,Taran,False,True
+828,42,Ao Jun,Ember,False,True
+829,42,Ao Jun,Ember,False,True
+830,42,Ao Jun,,False,False
+831,42,Ao Jun,,False,False
+832,42,Invader,Storm,False,True
+833,42,Invader,Gust,False,True
+834,42,Invader,Gust,False,True
+835,42,Invader,,False,False
+836,42,Mercury,Gust,False,True
+837,42,Mercury,Avenger,False,True
+838,42,Mercury,Gust,False,False
+839,42,Mercury,,False,False
+840,43,,Storm,True,True
+841,43,,Gust,True,False
+842,43,,Halo,True,False
+843,43,,,True,False
+844,43,Ares,Pulsar,True,True
+845,43,Ares,Halo,True,False
+846,43,Ares,Halo,True,False
+847,43,Ares,Pulsar,True,True
+848,43,Ares,Taran,False,True
+849,43,Ares,Halo,False,False
+850,43,Ares,Halo,False,False
+851,43,Ares,Taran,False,True
+852,43,Mercury,Ecu,False,False
+853,43,Mercury,Avenger,False,True
+854,43,Mercury,Shredder,False,False
+855,43,Mercury,,False,False
+856,43,Ao Jun,Avenger,False,True
+857,43,Ao Jun,Viper,False,True
+858,43,Ao Jun,,False,False
+859,43,Ao Jun,,False,False
+860,44,Loki,Gust,False,True
+861,44,Loki,Gust,False,True
+862,44,Loki,Shredder,False,False
+863,44,Loki,,False,False
+864,44,Ares,Taran,False,True
+865,44,Ares,Halo,False,False
+866,44,Ares,Halo,False,True
+867,44,Ares,Taran,False,True
+868,44,Ares,Pulsar,True,False
+869,44,Ares,Halo,True,False
+870,44,Ares,Halo,True,False
+871,44,Ares,Pulsar,True,False
+872,44,Ares,Corona,True,False
+873,44,Ares,Gust,True,True
+874,44,Ares,Halo,True,False
+875,44,Ares,Corona,True,False
+876,44,Ares,Pulsar,True,True
+877,44,Ares,Halo,True,False
+878,44,Ares,Halo,True,False
+879,44,Ares,Pulsar,True,True
+880,45,,Gust,False,True
+881,45,,Avenger,False,True
+882,45,,,False,False
+883,45,,,False,False
+884,45,,Gust,False,True
+885,45,,Ember,False,True
+886,45,,Halo,False,False
+887,45,,,False,False
+888,45,Ao Jun,Ember,False,True
+889,45,Ao Jun,Avenger,False,True
+890,45,Ao Jun,,False,False
+891,45,Ao Jun,,False,False
+892,45,Ares,Taran,True,True
+893,45,Ares,Halo,True,False
+894,45,Ares,Halo,True,False
+895,45,Ares,Taran,True,True
+896,45,Ares,Taran,True,True
+897,45,Ares,Halo,True,False
+898,45,Ares,Halo,True,False
+899,45,Ares,Taran,True,True
+900,46,Ao Jun,Avenger,False,True
+901,46,Ao Jun,Avenger,False,True
+902,46,Ao Jun,,False,False
+903,46,Ao Jun,,False,False
+904,46,Ares,Taran,False,True
+905,46,Ares,Shredder,False,False
+906,46,Ares,Shredder,False,False
+907,46,Ares,Taran,False,True
+908,46,Invader,Storm,False,False
+909,46,Invader,Gust,False,True
+910,46,Invader,Gust,False,True
+911,46,Invader,,False,False
+912,46,Ares,Scourge,False,True
+913,46,Ares,Spark,False,False
+914,46,Ares,Spark,False,False
+915,46,Ares,Scourge,False,True
+916,46,Hellburner,Halo,False,False
+917,46,Hellburner,Viper,False,False
+918,46,Hellburner,,False,False
+919,46,Hellburner,,False,False
+920,47,Ares,Scourge,True,True
+921,47,Ares,Spark,True,False
+922,47,Ares,Spark,True,False
+923,47,Ares,Scourge,True,True
+924,47,,Halo,False,True
+925,47,,Calamity,False,True
+926,47,,Halo,False,True
+927,47,,,False,False
+928,47,Invader,Storm,True,False
+929,47,Invader,Gust,True,False
+930,47,Invader,Gust,True,False
+931,47,Invader,,True,False
+932,47,Ao Jun,Glory,False,True
+933,47,Ao Jun,Glory,False,False
+934,47,Ao Jun,,False,False
+935,47,Ao Jun,,False,False
+936,47,Ares,Taran,False,True
+937,47,Ares,Halo,False,False
+938,47,Ares,Halo,False,False
+939,47,Ares,Taran,False,True
+940,48,Ao Jun,Avenger,True,True
+941,48,Ao Jun,Avenger,True,True
+942,48,Ao Jun,,True,False
+943,48,Ao Jun,,True,False
+944,48,Ares,Taran,True,True
+945,48,Ares,Halo,True,True
+946,48,Ares,Halo,True,True
+947,48,Ares,Taran,True,True
+948,48,Invader,Storm,True,True
+949,48,Invader,Gust,True,True
+950,48,Invader,Gust,True,True
+951,48,Invader,,True,False
+952,48,Ao Jun,Ember,True,True
+953,48,Ao Jun,Ember,True,True
+954,48,Ao Jun,,True,False
+955,48,Ao Jun,,True,False
+956,48,Invader,Storm,True,True
+957,48,Invader,Gust,True,True
+958,48,Invader,Gust,True,True
+959,48,Invader,,True,False
+960,49,Ao Jun,Viper,True,True
+961,49,Ao Jun,Viper,True,True
+962,49,Ao Jun,,True,False
+963,49,Ao Jun,,True,False
+964,49,,Storm,True,True
+965,49,,Gust,True,True
+966,49,,Halo,True,False
+967,49,,,True,False
+968,49,Ares,Corona,True,False
+969,49,Ares,Halo,True,False
+970,49,Ares,Halo,True,False
+971,49,Ares,Corona,True,False
+972,49,Ares,Orkan,False,True
+973,49,Ares,Halo,False,False
+974,49,Ares,Halo,False,False
+975,49,Ares,Orkan,False,True
+976,49,,Ecu,False,False
+977,49,,Ember,False,True
+978,49,,,False,False
+979,49,,,False,False
+980,50,Ao Jun,Viper,False,True
+981,50,Ao Jun,Avenger,False,True
+982,50,Ao Jun,,False,False
+983,50,Ao Jun,,False,False
+984,50,Ares,Taran,False,True
+985,50,Ares,Halo,False,False
+986,50,Ares,Halo,False,False
+987,50,Ares,Taran,False,True
+988,50,Ao Jun,Ember,False,True
+989,50,Ao Jun,Glory,False,False
+990,50,Ao Jun,,False,False
+991,50,Ao Jun,,False,False
+992,50,Ares,Scourge,False,True
+993,50,Ares,Halo,False,False
+994,50,Ares,Halo,False,False
+995,50,Ares,Scourge,False,True
+996,50,Mercury,Gust,False,True
+997,50,Mercury,Avenger,False,True
+998,50,Mercury,Halo,False,False
+999,50,Mercury,,False,False
+1000,51,Ares,Tulumbas,True,True
+1001,51,Ares,Pin,True,True
+1002,51,Ares,Pin,True,True
+1003,51,Ares,Tulumbas,True,True
+1004,51,,Taran,False,True
+1005,51,,Taran,False,True
+1006,51,,Taran,False,False
+1007,51,,Taran,False,True
+1008,51,Mercury,Gust,True,False
+1009,51,Mercury,Avenger,True,True
+1010,51,Mercury,Gust,True,False
+1011,51,Mercury,,True,False
+1012,51,Pursuer,Halo,False,True
+1013,51,Pursuer,Halo,False,False
+1014,51,Pursuer,Halo,False,False
+1015,51,Pursuer,,False,False
+1016,51,Strider,Halo,False,False
+1017,51,Strider,Halo,False,False
+1018,51,Strider,Avenger,False,True
+1019,51,Strider,,False,False
+1020,52,Pursuer,Gust,True,True
+1021,52,Pursuer,Gust,True,True
+1022,52,Pursuer,Gust,True,True
+1023,52,Pursuer,,True,False
+1024,52,Mender,Halo,True,True
+1025,52,Mender,Taran,True,True
+1026,52,Mender,Halo,True,True
+1027,52,Mender,,True,False
+1028,52,Mender,Halo,False,True
+1029,52,Mender,Taran,False,True
+1030,52,Mender,Halo,False,True
+1031,52,Mender,,False,False
+1032,52,Ares,Scourge,False,True
+1033,52,Ares,Shredder,False,False
+1034,52,Ares,Shredder,False,False
+1035,52,Ares,Scourge,False,True
+1036,52,Spectre,Pulsar,True,True
+1037,52,Spectre,Pulsar,True,True
+1038,52,Spectre,Pulsar,True,True
+1039,52,Spectre,Pulsar,True,True
+1040,53,Mender,Halo,True,False
+1041,53,Mender,Corona,True,False
+1042,53,Mender,Magnum,True,False
+1043,53,Mender,,True,False
+1044,53,,Gust,False,True
+1045,53,,Exodus,False,False
+1046,53,,,False,False
+1047,53,,,False,False
+1048,53,Invader,Corona,False,False
+1049,53,Invader,Gust,False,True
+1050,53,Invader,Gust,False,True
+1051,53,Invader,,False,False
+1052,53,Hades,Shredder,False,False
+1053,53,Hades,Viper,False,True
+1054,53,Hades,Shredder,False,False
+1055,53,Hades,,False,False
+1056,53,Ares,Scourge,True,True
+1057,53,Ares,Halo,True,False
+1058,53,Ares,Halo,True,False
+1059,53,Ares,Scourge,True,True
+1060,54,Ares,Scourge,False,False
+1061,54,Ares,Spark,False,False
+1062,54,Ares,Spark,False,False
+1063,54,Ares,Scourge,False,False
+1064,54,Ao Jun,Calamity,False,False
+1065,54,Ao Jun,Calamity,False,False
+1066,54,Ao Jun,,False,False
+1067,54,Ao Jun,,False,False
+1068,54,Ares,Storm,False,False
+1069,54,Ares,Halo,False,False
+1070,54,Ares,Halo,False,False
+1071,54,Ares,Storm,False,False
+1072,54,Ao Jun,Avenger,False,False
+1073,54,Ao Jun,Avenger,False,False
+1074,54,Ao Jun,,False,False
+1075,54,Ao Jun,,False,False
+1076,54,Ares,Pulsar,False,False
+1077,54,Ares,Shredder,False,False
+1078,54,Ares,Shredder,False,False
+1079,54,Ares,Pulsar,False,False
+1080,55,Ares,Pulsar,True,False
+1081,55,Ares,Shredder,True,False
+1082,55,Ares,Shredder,True,False
+1083,55,Ares,Pulsar,True,False
+1084,55,Ares,Scourge,False,True
+1085,55,Ares,Halo,False,False
+1086,55,Ares,Halo,False,False
+1087,55,Ares,Scourge,False,True
+1088,55,Ao Jun,Avenger,False,True
+1089,55,Ao Jun,Avenger,False,True
+1090,55,Ao Jun,,False,False
+1091,55,Ao Jun,,False,False
+1092,55,Invader,Corona,True,False
+1093,55,Invader,Halo,True,False
+1094,55,Invader,Gust,True,True
+1095,55,Invader,,True,False
+1096,55,Mercury,Gust,True,True
+1097,55,Mercury,Ember,True,True
+1098,55,Mercury,Halo,True,False
+1099,55,Mercury,,True,False
+1100,56,Ao Jun,Ember,True,True
+1101,56,Ao Jun,Ember,True,True
+1102,56,Ao Jun,,True,False
+1103,56,Ao Jun,,True,False
+1104,56,Ares,Pulsar,False,True
+1105,56,Ares,Marquess,False,False
+1106,56,Ares,Marquess,False,False
+1107,56,Ares,Pulsar,False,True
+1108,56,Ares,Taran,True,True
+1109,56,Ares,Halo,True,False
+1110,56,Ares,Halo,True,False
+1111,56,Ares,Taran,True,True
+1112,56,Hades,Halo,True,False
+1113,56,Hades,Glory,True,True
+1114,56,Hades,Halo,True,False
+1115,56,Hades,,True,False
+1116,56,Invader,Storm,False,True
+1117,56,Invader,Gust,False,False
+1118,56,Invader,Gust,False,False
+1119,56,Invader,,False,False
+1120,57,Strider,Blaze,False,True
+1121,57,Strider,Ecu,False,False
+1122,57,Strider,Ember,False,True
+1123,57,Strider,,False,False
+1124,57,Ares,Tulumbas,False,True
+1125,57,Ares,Pin,False,False
+1126,57,Ares,Pin,False,False
+1127,57,Ares,Tulumbas,False,True
+1128,57,Ares,Taran,True,True
+1129,57,Ares,Halo,True,True
+1130,57,Ares,Halo,True,True
+1131,57,Ares,Taran,True,True
+1132,57,Ares,Pulsar,True,False
+1133,57,Ares,Shredder,True,True
+1134,57,Ares,Shredder,True,True
+1135,57,Ares,Pulsar,True,False
+1136,57,Ao Jun,Avenger,False,True
+1137,57,Ao Jun,Avenger,False,True
+1138,57,Ao Jun,,False,False
+1139,57,Ao Jun,,False,False
+1140,58,Ares,Corona,False,False
+1141,58,Ares,Gust,False,True
+1142,58,Ares,Gust,False,True
+1143,58,Ares,Corona,False,False
+1144,58,,Storm,True,True
+1145,58,,Avenger,True,True
+1146,58,,Storm,True,True
+1147,58,,,True,False
+1148,58,Ares,Scourge,True,True
+1149,58,Ares,Halo,True,False
+1150,58,Ares,Halo,True,False
+1151,58,Ares,Scourge,True,True
+1152,58,Ares,Taran,False,True
+1153,58,Ares,Halo,False,False
+1154,58,Ares,Halo,False,False
+1155,58,Ares,Taran,False,True
+1156,58,,Ecu,False,True
+1157,58,,Ember,False,True
+1158,58,,,False,False
+1159,58,,,False,False
+1160,59,Bulwark,Avenger,True,True
+1161,59,Bulwark,Avenger,True,True
+1162,59,Bulwark,,True,False
+1163,59,Bulwark,,True,False
+1164,59,,Storm,True,True
+1165,59,,Halo,True,False
+1166,59,,Halo,True,False
+1167,59,,,True,False
+1168,59,Ao Jun,Viper,True,True
+1169,59,Ao Jun,Glory,True,False
+1170,59,Ao Jun,,True,False
+1171,59,Ao Jun,,True,False
+1172,59,Ares,Scourge,True,True
+1173,59,Ares,Spark,True,False
+1174,59,Ares,Spark,True,False
+1175,59,Ares,Scourge,True,True
+1176,59,Ares,Corona,True,False
+1177,59,Ares,Gust,True,True
+1178,59,Ares,Gust,True,True
+1179,59,Ares,Corona,True,False
+1180,60,Ao Jun,Avenger,False,True
+1181,60,Ao Jun,Avenger,False,True
+1182,60,Ao Jun,,False,False
+1183,60,Ao Jun,,False,False
+1184,60,,Corona,False,False
+1185,60,,Halo,False,False
+1186,60,,Halo,False,False
+1187,60,,,False,False
+1188,60,Ares,Scourge,False,True
+1189,60,Ares,Spark,False,False
+1190,60,Ares,Halo,False,False
+1191,60,Ares,Scourge,False,True
+1192,60,,Halo,False,False
+1193,60,,Ember,False,True
+1194,60,,,False,False
+1195,60,,,False,False
+1196,60,Ares,Scourge,False,True
+1197,60,Ares,Spark,False,False
+1198,60,Ares,Halo,False,False
+1199,60,Ares,Scourge,False,True
+1200,61,Ao Jun,Ember,True,True
+1201,61,Ao Jun,Ember,True,True
+1202,61,Ao Jun,,True,False
+1203,61,Ao Jun,,True,False
+1204,61,Ares,Scourge,True,True
+1205,61,Ares,Halo,True,False
+1206,61,Ares,Halo,True,False
+1207,61,Ares,Scourge,True,True
+1208,61,Mercury,Ecu,True,False
+1209,61,Mercury,Avenger,True,True
+1210,61,Mercury,Halo,True,False
+1211,61,Mercury,,True,False
+1212,61,Invader,Storm,True,True
+1213,61,Invader,Gust,True,True
+1214,61,Invader,Halo,True,False
+1215,61,Invader,,True,False
+1216,61,Ares,Pulsar,False,False
+1217,61,Ares,Spark,False,False
+1218,61,Ares,Shredder,False,False
+1219,61,Ares,Pulsar,False,False
+1220,62,Ares,Scourge,True,True
+1221,62,Ares,Spark,True,True
+1222,62,Ares,Spark,True,False
+1223,62,Ares,Scourge,True,True
+1224,62,Ares,Pulsar,True,True
+1225,62,Ares,Marquess,True,False
+1226,62,Ares,Marquess,True,False
+1227,62,Ares,Pulsar,True,True
+1228,62,Loki,Halo,True,True
+1229,62,Loki,Gust,True,True
+1230,62,Loki,Halo,True,True
+1231,62,Loki,,True,False
+1232,62,Ares,Scourge,True,True
+1233,62,Ares,Halo,True,True
+1234,62,Ares,Halo,True,True
+1235,62,Ares,Scourge,True,True
+1236,62,Ares,Corona,True,True
+1237,62,Ares,Halo,True,True
+1238,62,Ares,Halo,True,True
+1239,62,Ares,Corona,True,True
+1240,63,Strider,Gust,True,True
+1241,63,Strider,Halo,True,True
+1242,63,Strider,Avenger,True,True
+1243,63,Strider,,True,False
+1244,63,,Halo,True,True
+1245,63,,Avenger,True,True
+1246,63,,Halo,True,True
+1247,63,,,True,False
+1248,63,Ares,Corona,True,True
+1249,63,Ares,Halo,True,True
+1250,63,Ares,Halo,True,True
+1251,63,Ares,Corona,True,True
+1252,63,Ares,Scourge,True,True
+1253,63,Ares,Shredder,True,True
+1254,63,Ares,Halo,True,True
+1255,63,Ares,Scourge,True,True
+1256,63,Ao Jun,Ember,True,True
+1257,63,Ao Jun,Ember,True,True
+1258,63,Ao Jun,,True,False
+1259,63,Ao Jun,,True,False
+1260,64,Ares,Taran,False,True
+1261,64,Ares,Halo,False,False
+1262,64,Ares,Halo,False,False
+1263,64,Ares,Taran,False,True
+1264,64,Ares,Corona,False,True
+1265,64,Ares,Gust,False,True
+1266,64,Ares,Gust,False,True
+1267,64,Ares,Storm,False,True
+1268,64,Falcon,Trident,True,True
+1269,64,Falcon,Ember,True,True
+1270,64,Falcon,Trident,True,True
+1271,64,Falcon,,True,False
+1272,64,Hellburner,Ecu,False,False
+1273,64,Hellburner,Viper,False,True
+1274,64,Hellburner,,False,False
+1275,64,Hellburner,,False,False
+1276,64,Ao Jun,Avenger,False,True
+1277,64,Ao Jun,Avenger,False,True
+1278,64,Ao Jun,,False,False
+1279,64,Ao Jun,,False,False
+1280,65,Ares,Taran,False,True
+1281,65,Ares,Halo,False,False
+1282,65,Ares,Halo,False,False
+1283,65,Ares,Taran,False,True
+1284,65,Ares,Corona,False,True
+1285,65,Ares,Gust,False,True
+1286,65,Ares,Gust,False,True
+1287,65,Ares,Storm,False,True
+1288,65,Falcon,Trident,True,True
+1289,65,Falcon,Ember,True,True
+1290,65,Falcon,Trident,True,True
+1291,65,Falcon,,True,False
+1292,65,Hellburner,Ecu,False,False
+1293,65,Hellburner,Viper,False,True
+1294,65,Hellburner,,False,False
+1295,65,Hellburner,,False,False
+1296,65,Ao Jun,Avenger,False,True
+1297,65,Ao Jun,Avenger,False,True
+1298,65,Ao Jun,,False,False
+1299,65,Ao Jun,,False,False
+1300,66,,Halo,False,False
+1301,66,,Glory,False,False
+1302,66,,,False,False
+1303,66,,,False,False
+1304,66,Ao Jun,Redeemer,False,True
+1305,66,Ao Jun,Redeemer,False,True
+1306,66,Ao Jun,,False,False
+1307,66,Ao Jun,,False,False
+1308,66,Mercury,Halo,True,True
+1309,66,Mercury,Avenger,True,True
+1310,66,Mercury,Halo,True,True
+1311,66,Mercury,,True,False
+1312,66,Ares,Pulsar,False,False
+1313,66,Ares,Halo,False,True
+1314,66,Ares,Halo,False,True
+1315,66,Ares,Pulsar,False,False
+1316,66,Ares,Corona,False,True
+1317,66,Ares,Gust,False,True
+1318,66,Ares,Halo,False,True
+1319,66,Ares,Corona,False,False
+1320,67,Ares,Corona,True,False
+1321,67,Ares,Halo,True,True
+1322,67,Ares,Halo,True,False
+1323,67,Ares,Corona,True,False
+1324,67,,Corona,True,True
+1325,67,,Halo,True,True
+1326,67,,Halo,True,True
+1327,67,,,True,False
+1328,67,Ao Jun,Ember,True,True
+1329,67,Ao Jun,Ember,True,False
+1330,67,Ao Jun,,True,False
+1331,67,Ao Jun,,True,False
+1332,67,Ao Jun,Viper,True,True
+1333,67,Ao Jun,Viper,True,True
+1334,67,Ao Jun,,True,False
+1335,67,Ao Jun,,True,False
+1336,67,Ao Jun,Ember,True,True
+1337,67,Ao Jun,Ember,True,False
+1338,67,Ao Jun,,True,False
+1339,67,Ao Jun,,True,False
+1340,68,,Corona,True,True
+1341,68,,Halo,True,True
+1342,68,,Halo,True,True
+1343,68,,,True,False
+1344,68,Ares,Scourge,True,True
+1345,68,Ares,Halo,True,True
+1346,68,Ares,Halo,True,True
+1347,68,Ares,Scourge,True,True
+1348,68,Ares,Taran,True,True
+1349,68,Ares,Halo,True,True
+1350,68,Ares,Halo,True,True
+1351,68,Ares,Taran,True,True
+1352,68,Ao Jun,Glory,True,True
+1353,68,Ao Jun,Glory,True,True
+1354,68,Ao Jun,,True,False
+1355,68,Ao Jun,,True,False
+1356,68,Ao Jun,Ember,True,True
+1357,68,Ao Jun,Ember,True,True
+1358,68,Ao Jun,,True,False
+1359,68,Ao Jun,,True,False
+1360,69,Ares,Taran,False,False
+1361,69,Ares,Magnum,False,False
+1362,69,Ares,Magnum,False,False
+1363,69,Ares,Taran,False,False
+1364,69,Ares,Taran,False,True
+1365,69,Ares,Halo,False,False
+1366,69,Ares,Halo,False,False
+1367,69,Ares,Taran,False,True
+1368,69,Invader,Storm,True,False
+1369,69,Invader,Gust,True,False
+1370,69,Invader,Gust,True,False
+1371,69,Invader,,True,False
+1372,69,Ao Jun,Viper,False,True
+1373,69,Ao Jun,Viper,False,True
+1374,69,Ao Jun,,False,False
+1375,69,Ao Jun,,False,False
+1376,69,Ao Jun,Avenger,False,True
+1377,69,Ao Jun,Avenger,False,True
+1378,69,Ao Jun,,False,False
+1379,69,Ao Jun,,False,False
+1380,70,Ares,Taran,False,False
+1381,70,Ares,Shredder,False,False
+1382,70,Ares,Shredder,False,False
+1383,70,Ares,Taran,False,True
+1384,70,Ares,Taran,False,True
+1385,70,Ares,Halo,False,False
+1386,70,Ares,Halo,False,False
+1387,70,Ares,Taran,False,True
+1388,70,Hellburner,Halo,False,False
+1389,70,Hellburner,Avenger,False,False
+1390,70,Hellburner,,False,False
+1391,70,Hellburner,,False,False
+1392,70,Invader,Corona,False,False
+1393,70,Invader,Halo,False,False
+1394,70,Invader,Halo,False,False
+1395,70,Invader,,False,False
+1396,70,Ao Jun,Ember,False,False
+1397,70,Ao Jun,Ember,False,False
+1398,70,Ao Jun,,False,False
+1399,70,Ao Jun,,False,False
+1400,71,Nemesis,Orkan,False,True
+1401,71,Nemesis,Orkan,False,True
+1402,71,Nemesis,,False,False
+1403,71,Nemesis,,False,False
+1404,71,,Shredder,False,False
+1405,71,,Redeemer,False,True
+1406,71,,,False,False
+1407,71,,,False,False
+1408,71,Falcon,Exodus,True,False
+1409,71,Falcon,Exodus,True,False
+1410,71,Falcon,Exodus,True,False
+1411,71,Falcon,,True,False
+1412,71,Mercury,Ecu,False,False
+1413,71,Mercury,Calamity,False,False
+1414,71,Mercury,Spark,False,False
+1415,71,Mercury,,False,False
+1416,71,Spectre,Shocktrain,False,True
+1417,71,Spectre,Shocktrain,False,True
+1418,71,Spectre,Shocktrain,False,True
+1419,71,Spectre,Shocktrain,False,False
+1420,72,Ares,Taran,False,True
+1421,72,Ares,Shredder,False,False
+1422,72,Ares,Halo,False,False
+1423,72,Ares,Taran,False,True
+1424,72,Ao Jun,Avenger,False,True
+1425,72,Ao Jun,Avenger,False,False
+1426,72,Ao Jun,,False,False
+1427,72,Ao Jun,,False,False
+1428,72,Ares,Corona,True,False
+1429,72,Ares,Gust,True,False
+1430,72,Ares,Gust,True,True
+1431,72,Ares,Corona,True,False
+1432,72,Mercury,Halo,False,False
+1433,72,Mercury,Ember,False,True
+1434,72,Mercury,Halo,False,False
+1435,72,Mercury,,False,False
+1436,72,Invader,Storm,False,False
+1437,72,Invader,Halo,False,False
+1438,72,Invader,Gust,False,True
+1439,72,Invader,,False,False
+1440,73,,Ecu,False,True
+1441,73,,Viper,False,False
+1442,73,,,False,False
+1443,73,,,False,False
+1444,73,Ares,Corona,True,False
+1445,73,Ares,Gust,True,True
+1446,73,Ares,Halo,True,False
+1447,73,Ares,Storm,True,False
+1448,73,Ao Jun,Avenger,False,False
+1449,73,Ao Jun,Avenger,False,False
+1450,73,Ao Jun,,False,False
+1451,73,Ao Jun,,False,False
+1452,73,Ao Jun,Avenger,False,True
+1453,73,Ao Jun,Ember,False,True
+1454,73,Ao Jun,,False,False
+1455,73,Ao Jun,,False,False
+1456,73,Tyr,Scourge,False,True
+1457,73,Tyr,Gust,False,True
+1458,73,Tyr,Gust,False,True
+1459,73,Tyr,Scourge,False,True
+1460,74,,Shredder,False,False
+1461,74,,Ember,False,True
+1462,74,,,False,False
+1463,74,,,False,False
+1464,74,Ares,Scourge,True,True
+1465,74,Ares,Shredder,True,False
+1466,74,Ares,Spark,True,False
+1467,74,Ares,Scourge,True,True
+1468,74,Mercury,Blaze,True,False
+1469,74,Mercury,Ember,True,True
+1470,74,Mercury,Halo,True,False
+1471,74,Mercury,,True,False
+1472,74,Ares,Corona,True,False
+1473,74,Ares,Halo,True,False
+1474,74,Ares,Halo,True,False
+1475,74,Ares,Pulsar,True,False
+1476,74,Invader,Corona,True,True
+1477,74,Invader,Halo,True,True
+1478,74,Invader,Halo,True,False
+1479,74,Invader,,True,False
+1480,75,,Corona,True,True
+1481,75,,Halo,True,True
+1482,75,,Halo,True,True
+1483,75,,,True,False
+1484,75,,Halo,False,True
+1485,75,,Ember,False,True
+1486,75,,,False,False
+1487,75,,,False,False
+1488,75,Ao Jun,Avenger,False,True
+1489,75,Ao Jun,Avenger,False,True
+1490,75,Ao Jun,,False,False
+1491,75,Ao Jun,,False,False
+1492,75,Ares,Storm,True,True
+1493,75,Ares,Halo,True,True
+1494,75,Ares,Halo,True,True
+1495,75,Ares,Storm,True,True
+1496,75,Mercury,Shredder,True,True
+1497,75,Mercury,Ember,True,True
+1498,75,Mercury,Shredder,True,True
+1499,75,Mercury,,True,False
+1500,76,Ao Jun,Ember,True,True
+1501,76,Ao Jun,Ember,True,True
+1502,76,Ao Jun,,True,False
+1503,76,Ao Jun,,True,False
+1504,76,Ares,Corona,True,True
+1505,76,Ares,Halo,True,False
+1506,76,Ares,Halo,True,False
+1507,76,Ares,Corona,True,True
+1508,76,Ares,Pulsar,True,False
+1509,76,Ares,Shredder,True,False
+1510,76,Ares,Shredder,True,False
+1511,76,Ares,Pulsar,True,False
+1512,76,Invader,Storm,True,True
+1513,76,Invader,Gust,True,True
+1514,76,Invader,Halo,True,True
+1515,76,Invader,,True,False
+1516,76,Invader,Storm,True,True
+1517,76,Invader,Gust,True,True
+1518,76,Invader,Halo,True,True
+1519,76,Invader,,True,False
+1520,77,,Storm,True,True
+1521,77,,Gust,True,True
+1522,77,,Halo,True,True
+1523,77,,,True,False
+1524,77,,Corona,True,True
+1525,77,,Avenger,True,True
+1526,77,,Corona,True,True
+1527,77,,,True,False
+1528,77,Ao Jun,Avenger,True,True
+1529,77,Ao Jun,Glory,True,True
+1530,77,Ao Jun,,True,False
+1531,77,Ao Jun,,True,False
+1532,77,Ao Jun,Avenger,True,True
+1533,77,Ao Jun,Viper,True,True
+1534,77,Ao Jun,,True,False
+1535,77,Ao Jun,,True,False
+1536,77,Ares,Corona,True,False
+1537,77,Ares,Halo,True,False
+1538,77,Ares,Halo,True,False
+1539,77,Ares,Corona,True,True
+1540,78,Ares,Corona,True,True
+1541,78,Ares,Halo,True,True
+1542,78,Ares,Halo,True,True
+1543,78,Ares,Corona,True,True
+1544,78,Ares,Storm,True,True
+1545,78,Ares,Halo,True,True
+1546,78,Ares,Halo,True,True
+1547,78,Ares,Storm,True,True
+1548,78,Ao Jun,Avenger,True,True
+1549,78,Ao Jun,Avenger,True,True
+1550,78,Ao Jun,,True,False
+1551,78,Ao Jun,,True,False
+1552,78,Ares,Pulsar,True,True
+1553,78,Ares,Halo,True,True
+1554,78,Ares,Halo,True,True
+1555,78,Ares,Pulsar,True,True
+1556,78,Ares,Scourge,True,True
+1557,78,Ares,Halo,True,True
+1558,78,Ares,Halo,True,True
+1559,78,Ares,Scourge,True,True
+1560,79,Ares,Pulsar,True,True
+1561,79,Ares,Halo,True,False
+1562,79,Ares,Halo,True,False
+1563,79,Ares,Pulsar,True,True
+1564,79,Ares,Corona,True,True
+1565,79,Ares,Gust,True,True
+1566,79,Ares,Halo,True,False
+1567,79,Ares,Corona,True,False
+1568,79,Mercury,Ecu,True,False
+1569,79,Mercury,Avenger,True,True
+1570,79,Mercury,Halo,True,False
+1571,79,Mercury,,True,False
+1572,79,Invader,Storm,True,True
+1573,79,Invader,Halo,True,False
+1574,79,Invader,Halo,True,False
+1575,79,Invader,,True,False
+1576,79,Ao Jun,Avenger,True,True
+1577,79,Ao Jun,Viper,True,True
+1578,79,Ao Jun,,True,False
+1579,79,Ao Jun,,True,False
+1580,80,Ao Jun,Avenger,False,True
+1581,80,Ao Jun,Avenger,False,True
+1582,80,Ao Jun,,False,False
+1583,80,Ao Jun,,False,False
+1584,80,Ares,Scourge,True,False
+1585,80,Ares,Halo,True,False
+1586,80,Ares,Halo,True,False
+1587,80,Ares,Scourge,True,False
+1588,80,Invader,Storm,True,True
+1589,80,Invader,Halo,True,True
+1590,80,Invader,Halo,True,True
+1591,80,Invader,,True,False
+1592,80,Invader,Storm,True,True
+1593,80,Invader,Halo,True,True
+1594,80,Invader,Halo,True,True
+1595,80,Invader,,True,False
+1596,80,Ares,Corona,True,False
+1597,80,Ares,Halo,True,False
+1598,80,Ares,Halo,True,False
+1599,80,Ares,Corona,True,True
+1600,81,Mercury,Halo,True,False
+1601,81,Mercury,Avenger,True,True
+1602,81,Mercury,Ecu,True,True
+1603,81,Mercury,,True,False
+1604,81,,Storm,True,True
+1605,81,,Halo,True,False
+1606,81,,Gust,True,True
+1607,81,,,True,False
+1608,81,Invader,Storm,True,True
+1609,81,Invader,Halo,True,False
+1610,81,Invader,Gust,True,True
+1611,81,Invader,,True,False
+1612,81,Invader,Storm,False,True
+1613,81,Invader,Halo,False,False
+1614,81,Invader,Gust,False,True
+1615,81,Invader,,False,False
+1616,81,Ares,Corona,True,False
+1617,81,Ares,Halo,True,False
+1618,81,Ares,Halo,True,False
+1619,81,Ares,Corona,True,False
+1620,82,,Corona,True,False
+1621,82,,Halo,True,True
+1622,82,,Gust,True,True
+1623,82,,,True,False
+1624,82,,Gust,True,True
+1625,82,,Exodus,True,True
+1626,82,,Gust,True,True
+1627,82,,,True,False
+1628,82,Ao Jun,Avenger,True,True
+1629,82,Ao Jun,Avenger,True,True
+1630,82,Ao Jun,,True,False
+1631,82,Ao Jun,,True,False
+1632,82,Ares,Tulumbas,False,True
+1633,82,Ares,Halo,False,True
+1634,82,Ares,Halo,False,True
+1635,82,Ares,Tulumbas,False,True
+1636,82,Ares,Scourge,True,True
+1637,82,Ares,Spark,True,False
+1638,82,Ares,Spark,True,False
+1639,82,Ares,Scourge,True,True
+1640,83,Strider,Halo,True,False
+1641,83,Strider,Halo,True,False
+1642,83,Strider,Avenger,True,True
+1643,83,Strider,,True,False
+1644,83,,Halo,True,False
+1645,83,,Glory,True,True
+1646,83,,Halo,True,False
+1647,83,,,True,False
+1648,83,Mender,Gust,True,True
+1649,83,Mender,Storm,True,True
+1650,83,Mender,Gust,True,True
+1651,83,Mender,,True,False
+1652,83,Ares,Scourge,True,False
+1653,83,Ares,Spark,True,False
+1654,83,Ares,Spark,True,False
+1655,83,Ares,Scourge,True,True
+1656,83,Falcon,Dragoon,True,False
+1657,83,Falcon,Avenger,True,True
+1658,83,Falcon,Dragoon,True,False
+1659,83,Falcon,,True,False
+1660,84,Ares,Taran,True,True
+1661,84,Ares,Halo,True,False
+1662,84,Ares,Halo,True,False
+1663,84,Ares,Taran,True,True
+1664,84,Ao Jun,Avenger,True,True
+1665,84,Ao Jun,Avenger,True,True
+1666,84,Ao Jun,,True,False
+1667,84,Ao Jun,,True,False
+1668,84,Invader,Storm,True,True
+1669,84,Invader,Halo,True,False
+1670,84,Invader,Gust,True,True
+1671,84,Invader,,True,False
+1672,84,,Ecu,False,False
+1673,84,,Ember,False,True
+1674,84,,,False,False
+1675,84,,,False,False
+1676,84,Ares,Taran,True,True
+1677,84,Ares,Shredder,True,False
+1678,84,Ares,Halo,True,False
+1679,84,Ares,Taran,True,True
+1680,85,Strider,Gust,False,False
+1681,85,Strider,Halo,False,False
+1682,85,Strider,Ember,False,True
+1683,85,Strider,,False,False
+1684,85,,Gust,False,False
+1685,85,,Avenger,False,True
+1686,85,,Halo,False,False
+1687,85,,,False,False
+1688,85,Ares,Corona,False,False
+1689,85,Ares,Halo,False,False
+1690,85,Ares,Halo,False,True
+1691,85,Ares,Corona,False,False
+1692,85,Ares,Pulsar,False,False
+1693,85,Ares,Halo,False,False
+1694,85,Ares,Halo,False,False
+1695,85,Ares,Pulsar,False,False
+1696,85,Mender,Gust,False,True
+1697,85,Mender,Storm,False,True
+1698,85,Mender,Halo,False,False
+1699,85,Mender,,False,False
+1700,86,Ares,Scourge,False,True
+1701,86,Ares,Halo,False,False
+1702,86,Ares,Halo,False,False
+1703,86,Ares,Scourge,False,True
+1704,86,Ares,Scourge,True,True
+1705,86,Ares,Spark,True,True
+1706,86,Ares,Spark,True,True
+1707,86,Ares,Scourge,True,True
+1708,86,Ares,Taran,True,True
+1709,86,Ares,Gust,True,True
+1710,86,Ares,Halo,True,False
+1711,86,Ares,Taran,True,True
+1712,86,Ares,Pulsar,False,True
+1713,86,Ares,Halo,False,False
+1714,86,Ares,Halo,False,False
+1715,86,Ares,Corona,False,True
+1716,86,,Blaze,False,False
+1717,86,,Ember,False,True
+1718,86,,,False,False
+1719,86,,,False,False
+1720,87,,Storm,True,False
+1721,87,,Halo,True,False
+1722,87,,Halo,True,False
+1723,87,,,True,False
+1724,87,Ao Jun,Avenger,False,True
+1725,87,Ao Jun,Avenger,False,True
+1726,87,Ao Jun,,False,False
+1727,87,Ao Jun,,False,False
+1728,87,Ares,Taran,False,True
+1729,87,Ares,Magnum,False,False
+1730,87,Ares,Magnum,False,False
+1731,87,Ares,Taran,False,True
+1732,87,Ares,Scourge,False,False
+1733,87,Ares,Spark,False,False
+1734,87,Ares,Halo,False,False
+1735,87,Ares,Scourge,False,False
+1736,87,Ares,Corona,False,False
+1737,87,Ares,Halo,False,False
+1738,87,Ares,Halo,False,False
+1739,87,Ares,Corona,False,False
+1740,88,Ao Jun,Viper,True,True
+1741,88,Ao Jun,Viper,True,True
+1742,88,Ao Jun,,True,False
+1743,88,Ao Jun,,True,False
+1744,88,Ares,Taran,True,True
+1745,88,Ares,Halo,True,True
+1746,88,Ares,Halo,True,True
+1747,88,Ares,Taran,True,True
+1748,88,Invader,Storm,True,True
+1749,88,Invader,Halo,True,True
+1750,88,Invader,Halo,True,True
+1751,88,Invader,,True,False
+1752,88,,Ecu,False,True
+1753,88,,Avenger,False,True
+1754,88,,,False,False
+1755,88,,,False,False
+1756,88,Ares,Corona,True,True
+1757,88,Ares,Halo,True,True
+1758,88,Ares,Halo,True,True
+1759,88,Ares,Corona,True,True
+1760,89,Ao Jun,Viper,True,True
+1761,89,Ao Jun,Viper,True,True
+1762,89,Ao Jun,,True,False
+1763,89,Ao Jun,,True,False
+1764,89,Ares,Taran,True,True
+1765,89,Ares,Halo,True,True
+1766,89,Ares,Halo,True,True
+1767,89,Ares,Taran,True,True
+1768,89,Invader,Storm,True,True
+1769,89,Invader,Halo,True,True
+1770,89,Invader,Halo,True,True
+1771,89,Invader,,True,False
+1772,89,,Ecu,False,True
+1773,89,,Avenger,False,True
+1774,89,,,False,False
+1775,89,,,False,False
+1776,89,Ares,Corona,True,True
+1777,89,Ares,Halo,True,True
+1778,89,Ares,Halo,True,True
+1779,89,Ares,Corona,True,True
+1780,90,Ares,Corona,True,True
+1781,90,Ares,Halo,True,True
+1782,90,Ares,Halo,True,True
+1783,90,Ares,Corona,True,True
+1784,90,Ao Jun,Ember,True,True
+1785,90,Ao Jun,Ember,True,True
+1786,90,Ao Jun,,True,False
+1787,90,Ao Jun,,True,False
+1788,90,Ao Jun,Calamity,True,False
+1789,90,Ao Jun,Calamity,True,False
+1790,90,Ao Jun,,True,False
+1791,90,Ao Jun,,True,False
+1792,90,Ares,Pulsar,True,True
+1793,90,Ares,Marquess,True,False
+1794,90,Ares,Marquess,True,False
+1795,90,Ares,Pulsar,True,True
+1796,90,Fenrir,Scourge,True,True
+1797,90,Fenrir,,True,False
+1798,90,Fenrir,Scourge,True,True
+1799,90,Fenrir,,True,False
+1800,91,,Storm,True,True
+1801,91,,Gust,True,True
+1802,91,,Gust,True,True
+1803,91,,,True,False
+1804,91,Ares,Taran,True,True
+1805,91,Ares,Halo,True,False
+1806,91,Ares,Halo,True,False
+1807,91,Ares,Taran,True,True
+1808,91,,Halo,False,False
+1809,91,,Avenger,False,True
+1810,91,,,False,False
+1811,91,,,False,False
+1812,91,Ares,Scourge,True,True
+1813,91,Ares,Halo,True,False
+1814,91,Ares,Halo,True,False
+1815,91,Ares,Scourge,True,True
+1816,91,Ares,Scourge,True,True
+1817,91,Ares,Shredder,True,False
+1818,91,Ares,Shredder,True,False
+1819,91,Ares,Scourge,True,True
+1820,92,,Storm,True,True
+1821,92,,Gust,True,True
+1822,92,,Halo,True,True
+1823,92,,,True,False
+1824,92,,Halo,True,True
+1825,92,,Avenger,True,True
+1826,92,,Halo,True,True
+1827,92,,,True,False
+1828,92,Ares,Corona,True,True
+1829,92,Ares,Halo,True,True
+1830,92,Ares,Halo,True,True
+1831,92,Ares,Corona,True,True
+1832,92,Strider,Gust,True,True
+1833,92,Strider,Halo,True,True
+1834,92,Strider,Exodus,True,True
+1835,92,Strider,,True,False
+1836,92,Spectre,Shocktrain,True,True
+1837,92,Spectre,Shocktrain,True,True
+1838,92,Spectre,Shocktrain,True,True
+1839,92,Spectre,Shocktrain,True,True
+1840,93,,Ecu,False,False
+1841,93,,Ember,False,True
+1842,93,,,False,False
+1843,93,,,False,False
+1844,93,Mender,Halo,True,False
+1845,93,Mender,Storm,True,True
+1846,93,Mender,Gust,True,True
+1847,93,Mender,,True,False
+1848,93,Invader,Storm,True,True
+1849,93,Invader,Halo,True,False
+1850,93,Invader,Gust,True,True
+1851,93,Invader,,True,False
+1852,93,Mercury,Halo,False,True
+1853,93,Mercury,Avenger,False,True
+1854,93,Mercury,Gust,False,True
+1855,93,Mercury,,False,False
+1856,93,Ares,Pulsar,False,False
+1857,93,Ares,Shredder,False,False
+1858,93,Ares,Shredder,False,False
+1859,93,Ares,Pulsar,False,False
+1860,94,Ao Jun,Ember,True,True
+1861,94,Ao Jun,Viper,True,True
+1862,94,Ao Jun,,True,False
+1863,94,Ao Jun,,True,False
+1864,94,Ao Jun,Avenger,True,True
+1865,94,Ao Jun,Avenger,True,True
+1866,94,Ao Jun,,True,False
+1867,94,Ao Jun,,True,False
+1868,94,Ares,Taran,True,True
+1869,94,Ares,Halo,True,False
+1870,94,Ares,Halo,True,False
+1871,94,Ares,Taran,True,True
+1872,94,Ares,Pulsar,True,True
+1873,94,Ares,Sting,True,True
+1874,94,Ares,Marquess,True,False
+1875,94,Ares,Pulsar,True,True
+1876,94,Invader,Storm,True,True
+1877,94,Invader,Halo,True,True
+1878,94,Invader,Halo,True,False
+1879,94,Invader,,True,False
+1880,95,Ao Jun,Avenger,False,False
+1881,95,Ao Jun,Avenger,False,False
+1882,95,Ao Jun,,False,False
+1883,95,Ao Jun,,False,False
+1884,95,,Halo,False,False
+1885,95,,Ember,False,True
+1886,95,,Halo,False,False
+1887,95,,,False,False
+1888,95,Ares,Corona,False,True
+1889,95,Ares,Halo,False,False
+1890,95,Ares,Halo,False,False
+1891,95,Ares,Corona,False,True
+1892,95,Inquisitor,Scourge,True,True
+1893,95,Inquisitor,Scourge,True,True
+1894,95,Inquisitor,Calamity,True,False
+1895,95,Inquisitor,,True,False
+1896,95,Mercury,Halo,False,False
+1897,95,Mercury,Glory,False,True
+1898,95,Mercury,Halo,False,False
+1899,95,Mercury,,False,False
+1900,96,Ao Jun,Avenger,False,False
+1901,96,Ao Jun,Viper,False,False
+1902,96,Ao Jun,,False,False
+1903,96,Ao Jun,,False,False
+1904,96,Ao Jun,Viper,False,False
+1905,96,Ao Jun,Viper,False,False
+1906,96,Ao Jun,,False,False
+1907,96,Ao Jun,,False,False
+1908,96,Ao Jun,Avenger,False,False
+1909,96,Ao Jun,Avenger,False,False
+1910,96,Ao Jun,,False,False
+1911,96,Ao Jun,,False,False
+1912,96,Ares,Corona,False,False
+1913,96,Ares,Halo,False,False
+1914,96,Ares,Halo,False,False
+1915,96,Ares,Corona,False,False
+1916,96,Ares,Corona,False,False
+1917,96,Ares,Halo,False,False
+1918,96,Ares,Halo,False,False
+1919,96,Ares,Corona,False,False
+1920,97,Bulwark,Dragoon,False,True
+1921,97,Bulwark,Dragoon,False,True
+1922,97,Bulwark,,False,False
+1923,97,Bulwark,,False,False
+1924,97,,Halo,False,False
+1925,97,,Ember,False,True
+1926,97,,Halo,False,False
+1927,97,,,False,False
+1928,97,Ares,Corona,True,True
+1929,97,Ares,Halo,True,False
+1930,97,Ares,Halo,True,False
+1931,97,Ares,Corona,True,False
+1932,97,Ares,Scourge,False,True
+1933,97,Ares,Spark,False,False
+1934,97,Ares,Spark,False,False
+1935,97,Ares,Scourge,False,True
+1936,97,Invader,Storm,False,False
+1937,97,Invader,Gust,False,False
+1938,97,Invader,Gust,False,False
+1939,97,Invader,,False,False
+1940,98,Ares,Storm,True,True
+1941,98,Ares,Gust,True,True
+1942,98,Ares,Halo,True,True
+1943,98,Ares,Storm,True,True
+1944,98,Ao Jun,Avenger,True,True
+1945,98,Ao Jun,Viper,True,True
+1946,98,Ao Jun,,True,False
+1947,98,Ao Jun,,True,False
+1948,98,Invader,Storm,True,True
+1949,98,Invader,Gust,True,True
+1950,98,Invader,Halo,True,False
+1951,98,Invader,,True,False
+1952,98,Ares,Corona,True,True
+1953,98,Ares,Halo,True,True
+1954,98,Ares,Halo,True,True
+1955,98,Ares,Corona,True,True
+1956,98,Ares,Pulsar,False,False
+1957,98,Ares,Shredder,False,False
+1958,98,Ares,Shredder,False,False
+1959,98,Ares,Pulsar,False,False
+1960,99,Ares,Taran,False,True
+1961,99,Ares,Blaze,False,False
+1962,99,Ares,Blaze,False,False
+1963,99,Ares,Taran,False,True
+1964,99,Ares,Corona,False,True
+1965,99,Ares,Halo,False,False
+1966,99,Ares,Halo,False,False
+1967,99,Ares,Corona,False,False
+1968,99,Ares,Storm,False,True
+1969,99,Ares,Halo,False,False
+1970,99,Ares,Halo,False,False
+1971,99,Ares,Storm,False,True
+1972,99,Tyr,Pulsar,False,True
+1973,99,Tyr,Marquess,False,False
+1974,99,Tyr,Marquess,False,False
+1975,99,Tyr,Pulsar,False,False
+1976,99,Ares,Taran,False,True
+1977,99,Ares,Shredder,False,False
+1978,99,Ares,Shredder,False,False
+1979,99,Ares,Taran,False,True
+1980,100,Ao Jun,Avenger,True,True
+1981,100,Ao Jun,Avenger,True,True
+1982,100,Ao Jun,,True,False
+1983,100,Ao Jun,,True,False
+1984,100,Ares,Corona,True,True
+1985,100,Ares,Halo,True,True
+1986,100,Ares,Halo,True,True
+1987,100,Ares,Corona,True,True
+1988,100,Blitz,Shredder,True,True
+1989,100,Blitz,Shredder,True,True
+1990,100,Blitz,Shredder,True,True
+1991,100,Blitz,Shredder,True,True
+1992,100,Blitz,Gust,False,True
+1993,100,Blitz,Halo,False,True
+1994,100,Blitz,Halo,False,True
+1995,100,Blitz,Gust,False,True
+1996,100,Strider,Gust,True,True
+1997,100,Strider,Gust,True,True
+1998,100,Strider,Glory,True,True
+1999,100,Strider,,True,False
+2000,101,Ao Jun,Redeemer,True,True
+2001,101,Ao Jun,Redeemer,True,True
+2002,101,Ao Jun,,True,False
+2003,101,Ao Jun,,True,False
+2004,101,,Storm,True,True
+2005,101,,Halo,True,False
+2006,101,,Halo,True,False
+2007,101,,,True,False
+2008,101,,Ecu,False,False
+2009,101,,Avenger,False,True
+2010,101,,,False,False
+2011,101,,,False,False
+2012,101,Ares,Corona,True,True
+2013,101,Ares,Halo,True,False
+2014,101,Ares,Halo,True,False
+2015,101,Ares,Corona,True,True
+2016,101,Ares,Pulsar,False,True
+2017,101,Ares,Halo,False,False
+2018,101,Ares,Halo,False,False
+2019,101,Ares,Pulsar,False,True

@@ -13,7 +13,7 @@ from tqdm import tqdm
 import pandas as pd
 
 # User input
-screenshot_folder = 'iOS_LL_2019-01-16'
+screenshot_folder = 'iOS_LL_2019-04-28'
 show_screenshots = True
 savetofile = True
 
