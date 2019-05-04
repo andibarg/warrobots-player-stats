@@ -14,6 +14,7 @@ Robot,Cossack,C[oa]ssack
 Robot,Destrier,Destrier
 Robot,Doc,D[oa]c
 Robot,Falcon,Falc[oa]n
+Robot,Fenrir,Fenrir
 Robot,Fujin,Fujin
 Robot,Fury,Fury
 Robot,Galahad,Galahad
@@ -29,6 +30,7 @@ Robot,Inquisitor,Inquisit[oa]r
 Robot,Invader,Invader
 Robot,Jesse,Jesse
 Robot,Kumiho,Kumih[oa]
+Robot,Loki,L[oa]ki
 Robot,Lancelot,Lancel[oa]t
 Robot,Leo,Le[oa]
 Robot,Mender,Mender
@@ -46,6 +48,7 @@ Robot,Schutze,Schutze
 Robot,Spectre,Spectre
 Robot,Stalker,Stalker
 Robot,Strider,Strider
+Robot,Tyr,Tyr
 Robot,Vityaz,Vityaz
 Robot,Weyland,Weyland
 Weapon,Ancile,Ancile
